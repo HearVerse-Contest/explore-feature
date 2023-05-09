@@ -31,3 +31,10 @@ Contest 3
    - Display a list of drops that match the selected genre filter.
    - Allow users to further filter the results by release date, popularity, or price.
    - Provide a link to the drop page where users can learn more and make a purchase.
+
+6. **Featured:**
+   - Display a list of feautured drops  on HearVerse Mmusic marketplace.
+   - Allow users to sort by date, popularity or price.
+   - Display key information for each drop, such as title, price, artist, artist descryption, artist feature level,  genre, and number of views or purchases.
+   - Allow users to scroll between different featured drops or categorize based on Genre.
+   - Provide a link to the drop page where users can learn more and make a purchase.
