@@ -1,5 +1,5 @@
 # explore-feature
-Contest 3
+Contest 3  (130 $HV)
 
 
 1. **Recently Released:**
